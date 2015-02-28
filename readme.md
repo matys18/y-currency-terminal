@@ -21,3 +21,5 @@ Open the terminal or cmd and type:
  
 
     10USD = 8.93EUR
+
+The currency symbols are standard, and it supports most of the currencies in the world. 
