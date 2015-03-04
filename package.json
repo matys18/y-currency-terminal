@@ -1,6 +1,6 @@
 {
   "name": "y-currency-terminal",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Currency conversion in the terminal using the Yahoo Finance API!",
   "author": "Matas Kairaitis <matas.kairaitis@gmail.com> (https://github.com/matys18/)",
   "bin": {
